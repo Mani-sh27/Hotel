@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    background-size: cover;
+}
+.strips{
+    height:70px;
+    background-image: url(../products/header-bg.png);  
+    background-size: cover;
+    padding:25px 25px 5px;
+    text-align: center;
+    word-spacing: 50px;
+
+}
+.frame{
+    background-image: url(../banner-slide/Banner-1.jpg);
+    height: 700px;
+    margin-bottom: 2px;
+}
+.image h1{
+        margin-top: 200px;
+        font-size: 90px;
+}
+.image h6{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 20px;
+    padding: 15px;
+    display: inline-block;
+    margin: 0px 0px 30px 0px;
+}
+.card img{
+    border: 0.1px solid black ;
+    display: inline-block;
+    border-radius: 50%;
+    /* height: px;
+    width: px; */
+    /* padding: 0px 90px 190px 90px; */
+    padding: 16px;
+    margin: 120px;
+    background-color: #e2f6de;
+}
+/*  */
+.card {
+    margin-top:3    0px;
+}   
+.card:hover{
+    background-color: ;
+
+}
+.card::before{
+    content: '';
+    border: 0.01px solid black;
+    display: block;
+    height: 315px;
+    width: 330px;
+    margin: 10px 0px -360px 20px;
+}
+.card:hover {
+    color: white;
+}
+.notes h5{
+    position: relative;
+    z-index: 99999;
+    color: black;
+}
+
+.trip{
+   margin: -76px 0px 0px 130px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.Door{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 50px;
+    border-radius:30px;
+    font-size: 20px;
+    margin-top:15px; 
+    display: inline-block;
+    
+}
+.Door:hover{
+    background-color: chartreuse;
+}
+.image p{
+    font-size: 25px;
+    margin-top: -20px;
+}
+.jungle{
+    padding:0px 70px;
+}
+.strips a{
+color: white;
+text-decoration: none;
+margin-left: 10px;
+display: inline-block;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 700;   
+}
+.trigger h1{
+    text-align: center;
+    margin-top:80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.trigger p{
+    text-align: center;
+}
+.vamos{
+    margin: -100px 139px ;
+}
+.tree{
+margin-top: 10px;
+border: 2px solid black;
+border-radius: 30px;
+padding: 13px 30px 10px ;
+margin: 6px -34px 0px -29px;
+}
